@@ -58,5 +58,3 @@ cd PasswordManager
 - To use a different database or table, edit the connection string and table name in `DataBase/JdbcDB.java`.
 - To change password generation rules, modify or extend `PasswordGenerator` or `StrongPasswordGenerator`.
 
-## License
-MIT License
